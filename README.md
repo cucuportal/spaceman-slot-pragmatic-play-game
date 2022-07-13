@@ -1,0 +1,1 @@
+# spaceman-slot-pragmatic-play-game

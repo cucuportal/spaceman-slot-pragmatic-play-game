@@ -1,0 +1,16 @@
+{
+  "name": "spaceman-slot-pragmatic-play-game",
+  "theme": "syntax",
+  "version": "0.3.0",
+  "description": "spaceman slot pragmatic play game",
+  "keywords": [
+    "spaceman slot",
+    "spaceman pragmatic",
+    "spaceman game",
+  ],
+  "repository": "https://github.com/cucuportal/spaceman-slot-pragmatic-play-game",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
